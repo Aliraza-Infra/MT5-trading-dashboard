@@ -57,15 +57,3 @@ Alerts can be enabled or disabled from the indicator settings.
 License
 
 This project is licensed under the MIT License.
-
-When you’re on GitHub:
-
-Open your repo.
-
-Click Add file → Create new file.
-
-Name it README.md.
-
-Paste the above content.
-
-Scroll down and click Commit new file.
