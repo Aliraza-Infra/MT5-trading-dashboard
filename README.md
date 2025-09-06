@@ -2,7 +2,7 @@
 
 This repository contains a custom trading dashboard indicator for MetaTrader 5 (MT5). It is designed to bring together key technical analysis tools into a single, clean, and configurable interface.
 
-## Features in v1.0
+## Features in v1.1
 
 Multi-timeframe signal analysis
 
@@ -18,24 +18,37 @@ Dynamic layout with chart resize support
 
 Optimized code with error handling
 
+## Version 2.1 Features (New)
+
+Order execution buttons (Buy/Sell) for quick trade placement
+
+Risk management panel with lot size, risk-reward ratio, and stop-loss settings
+
+Enhanced market sentiment tools with percentage-based signal alignment display
+
+Strategy backtest integration for testing indicator signals on historical data
+
+User interface refinements, including customizable colors, fonts, and panel sizing
+
 ## Roadmap
 
 The project will be developed in phases, each version adding more features and refinements.
 
-v1.0 – Initial release (current version)
+v1.0 – Initial release
 
-v1.1+ – Planned improvements include:
+v2.1 – Current version with order execution, risk management, enhanced sentiment tools, backtesting and UI improvements
 
-Order execution buttons (Buy/Sell)
+v3.0+ – Planned improvements include:
 
-## Risk management panel
+Advanced position sizing calculator based on account equity
 
-Enhanced market sentiment tools
+Multi-symbol scanning for cross-market opportunities
 
-Strategy backtest integration
+Automated trading execution based on signal confirmation
 
-User interface refinements
+Integration with external data feeds (e.g., economic calendar)
 
+Mobile push notification support for alerts
 ## Installation
 
 Download the .mq5 file from src/v1.0/TradingDashboard.mq5.
