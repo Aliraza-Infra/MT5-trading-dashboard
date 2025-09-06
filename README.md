@@ -69,9 +69,9 @@ Alerts can be enabled or disabled from the indicator settings.
 
 ## Screenshots
 
-![Dashboard Overview V1.1](docs/Screenshots/Trading Dashboard V1.1.png) 
+![Dashboard Overview V1.1](Docs/Screenshots/Trading Dashboard V1.1.png) 
 
-![Dashboard Overview V2.1](docs/Screenshots/Trading Dashboard V2.1.png)
+![Dashboard Overview V2.1](Docs/Screenshots/Trading Dashboard V2.1.png)
 
 ![Signal Panel](docs/screenshots/signal_panel.png)  
 
