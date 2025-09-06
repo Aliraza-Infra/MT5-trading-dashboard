@@ -2,7 +2,6 @@
 //|                                            Trading Dashboard.mq5 |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2025, Trading Systems"
 #property link      "https://www.mql5.com"
 #property version   "1.1"
 #property indicator_chart_window
